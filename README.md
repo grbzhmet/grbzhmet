@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @grbzhmet
+- 👀 I’m interested in mobile developer and cyber security
+- 🌱 I’m currently learnin backend tech and cyber security
+- 📫 How to reach me linkedin.com/in/grbzhmet/
